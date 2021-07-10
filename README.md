@@ -3,9 +3,9 @@
 ## git clone
 
 ```
-mkdir -p ~/container/
-cd ~/container/
-git@github.com:teityura/wordpress.git
+mkdir -p ~/containers/
+cd ~/containers/
+https://github.com/teityura/wordpress.git
 cd wordpress/
 ```
 
