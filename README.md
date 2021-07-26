@@ -5,7 +5,7 @@
 ```
 mkdir -p ~/containers/
 cd ~/containers/
-https://github.com/teityura/wordpress.git
+git clone https://github.com/teityura/wordpress.git
 cd wordpress/
 ```
 
